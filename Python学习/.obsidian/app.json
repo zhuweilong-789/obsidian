@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "attachments",
+  "userIgnoreFilters": [
+    "attachments/*"
+  ],
+  "deleteUnlinkedAttachments": "always"
+}
